@@ -49,8 +49,9 @@ class cars {
   set color(newColor) {
     this._color = newColor;
   }
+
 }
 
 let myCars = new cars("Mercedes-Benz", "C63", "2014", "Grey");
 
-console.log(myCars);
+console.log(myCars.make, myCars.model, myCars.year, myCars.color);
