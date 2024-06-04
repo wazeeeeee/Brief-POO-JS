@@ -1,3 +1,9 @@
+![GitHub contributors](https://img.shields.io/github/contributors/MrLkuch/RepoTemplate?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/MrLkuch/RepoTemplate?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/MrLkuch/RepoTemplate?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/MrLkuch/RepoTemplate?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/MrLkuch/RepoTemplate?style=for-the-badge)
+
 <a name="readme-top"></a>
 
 
@@ -44,7 +50,9 @@ Brief POO ( Object Oriented Programming ) JavaScript
 
 ### Built With
 
-JavaScript
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
